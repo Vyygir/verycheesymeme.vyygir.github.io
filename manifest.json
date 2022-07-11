@@ -1,0 +1,16 @@
+{
+	"theme_color" : "#f69435",
+	"background_color" : "#f69435",
+	"display" : "browser",
+	"scope" : "/",
+	"start_url" : "/",
+	"name" : "Cheese",
+	"short_name" : "Cheese",
+	"icons": [
+		{
+			"src": "/app-icon.jpg",
+			"type": "image/jpg",
+			"sizes": "512x512"
+		}
+	]
+}
